@@ -21,6 +21,6 @@ Skills: PHP, JS, HTML, PYTHON, NESCAFÉ FUSION FTS 60E XL
 - put all of the files inside you root folder (e.g htdocs)
 - access the webserver via. your browser. (localhost / 127.0.0.1 with xampp)
 - congrats, you have lots of errors 🦖
-- SetUp you Database
+- SetUp a Database (preconfigured on the utf8 db "democrud")
 - Upload / Change the SQL, the Config.php and all neccesary files.
 - be as cute as a 🐶
