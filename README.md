@@ -1,4 +1,4 @@
-## Hi there 👋, Im Felix!
+## Hi there 👋, Im Felix! ![Profile views](https://gpvc.arturio.dev/NotFex)  
 ### doing web stuff :-)
 
 Skills: PHP, JS, HTML, PYTHON, NESCAFÉ FUSION FTS 60E XL
